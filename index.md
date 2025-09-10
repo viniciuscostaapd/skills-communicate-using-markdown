@@ -32,4 +32,7 @@
 print ('hello world')
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portifolio
+- [ ] Introduce myself to the world
 
